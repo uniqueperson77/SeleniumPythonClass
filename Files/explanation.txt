@@ -1,0 +1,60 @@
+Day1:
+in-built functions
+
+print
+len
+sum
+
+#basics
+
+variables
+
+indentation (4 spaces or a tab space)  # for, while, if elif else def
+
+for
+
+for variable in range(lowerIndex,upperIndex):
+    print(c)
+
+Comments => single (#) & multi line comment '''   '''
+
+5
+*
+**
+***
+****
+*****
+
+
+# in , not in
+in operand (sequential - string, list, set, ....)
+
+
+keyword - id # show you
+
+is -> compares memory location of two objects or variables
+== -> compares values of those two objects
+
+
+simple if
+if - else
+
+if -elif(if condition fails) - else
+
+if - if - if
+
+nested -if
+if
+    if
+
+
+
+for iterable_variable in sequence:
+    st1
+    st2
+    st3
+
+
+while(expr):
+    st1
+    st2

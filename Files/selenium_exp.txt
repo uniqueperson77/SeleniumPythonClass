@@ -1,0 +1,27 @@
+Pre-req:
+Install selenium libraray ->  pip install selenium v4.xx
+Install browserdrivers   -> from website  [set to Env PATH variable]
+Install browsers        -> most probably Chrome,Edge & Safari browsers get's installed already.
+
+
+
+###
+automatic installation of web drivers (webdriver-manager) - pypi
+webpage - web-elements
+locators (8)
+
+id
+name
+className
+tagName
+LinkText
+PartialLinktext
+xpath  //tag-name[@attrib='value']
+CssSelector
+
+
+XPath  - XML Path Language
+Absolute XPath - navigate from the root node  (/html/head/title)
+Relative XPath - Starts from anywhere in the document  (//title)
+
+
